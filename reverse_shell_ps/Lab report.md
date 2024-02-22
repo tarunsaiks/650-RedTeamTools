@@ -1,8 +1,7 @@
 ## Author Details
 
-- **Name:** Bharath,Tarun
-- **Email:** tkattasreenivasulu@albany.edu
-  sgowravam@albany.edu
+- **Name:** Bharath, Tarun
+- **Email:** sgowravam@albany.edu tkattasreenivasulu@albany.edu
 - **Team Number:** 2
 - [GitHub](https://github.com/tarunsaiks/650-RedTeamTools)
 

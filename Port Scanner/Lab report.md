@@ -1,8 +1,7 @@
 ## Author Details
 
-- **Name:** Sakshath,Ramya
-- **Email:** sgowravam@albany.edu
-  sbhattarai@albany.edu
+- **Name:** Sakshat, Ramya
+- **Email:** sbhattarai@albany.edu rkothapalli@albany.edu
 - **Team Number:** 2
 - [GitHub](https://github.com/tarunsaiks/650-RedTeamTools)
 

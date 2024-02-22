@@ -1,6 +1,6 @@
 ## Author Details 
 
-- **Name:** Tarun,Abhitosh
+- **Name:** Tarun, Abhitosh
 - **Email:** akumar6@albany.edu
          tkattasreenivasulu@albany.edu
 - **Team Number:** 2

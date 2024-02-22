@@ -1,7 +1,7 @@
 ## Author Details
 
 - **Name:** Lohitha, Tarun, Abhitosh
-- **Email:** akumar6@albany.edu ymallampalli@albany.edu tkattasreenivasulu@albany.edu
+- **Email:** ymallampalli@albany.edu tkattasreenivasulu@albany.edu akumar6@albany.edu
 - **Team Number:** 2
 - [GitHub](https://github.com/tarunsaiks/650-RedTeamTools)
 
