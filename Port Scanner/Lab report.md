@@ -1,10 +1,10 @@
-## Author Details 
+## Author Details
 
 - **Name:** Sakshath,Ramya
 - **Email:** sgowravam@albany.edu
-         sbhattarai@albany.edu
+  sbhattarai@albany.edu
 - **Team Number:** 2
-- Your repository link (invite instructor and grader/TA)
+- [GitHub](https://github.com/tarunsaiks/650-RedTeamTools)
 
 ## Questions
 

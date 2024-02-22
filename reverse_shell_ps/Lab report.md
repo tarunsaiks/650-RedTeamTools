@@ -1,10 +1,10 @@
-## Author Details 
+## Author Details
 
 - **Name:** Bharath,Tarun
 - **Email:** tkattasreenivasulu@albany.edu
-         sgowravam@albany.edu
+  sgowravam@albany.edu
 - **Team Number:** 2
-- Your repository link (invite instructor and grader/TA)
+- [GitHub](https://github.com/tarunsaiks/650-RedTeamTools)
 
 ## Questions
 
@@ -21,4 +21,3 @@ The script I developed draws inspiration from tools and techniques commonly asso
 ### (8 points) What is the feasibility of another team member quickly learning to use or contribute to your tool? What makes it easy or difficult to learn?
 
 The feasibility of another team member quickly learning to use or contribute to this script depends on their familiarity with PowerShell, network protocols, and remote command execution concepts. Admittedly, the script currently lacks extensive documentation, making it challenging for a new team member to grasp its intricacies. The use of obfuscated code, network communications, and the implementation of a continuous loop for command exchange adds complexity. Insufficient comments and explanatory notes further hinder the learning process. To enhance feasibility, I acknowledge the need for comprehensive documentation, clear comments explaining each section, and adherence to coding best practices. This approach aims to facilitate quicker understanding and contribution, emphasizing ethical use in alignment with organizational security policies.
- 

@@ -1,9 +1,10 @@
+## Author Details
 
-## Author Details 
 - **Name:** Lohitha, Tarun, Abhitosh
 - **Email:** akumar6@albany.edu ymallampalli@albany.edu tkattasreenivasulu@albany.edu
 - **Team Number:** 2
-- Your repository link (invite instructor and grader/TA)
+- [GitHub](https://github.com/tarunsaiks/650-RedTeamTools)
+
 ## Questions
 
 Answer the following questions about your tool. Your answers should be thorough and fully answer the question. Answers should be grammatically correct and be full sentences.
@@ -27,4 +28,3 @@ The feasibility of another team member swiftly learning and contributing to the 
 For the file transfer component, a foundational understanding of basic shell scripting, SSH, and SCP commands would be advantageous. The script's structure is intentionally kept simple, featuring clear variable definitions and function calls for ease of comprehension and modification.
 
 However, the introduction of the calculator application in an infinite loop may pose a potential distraction from the primary purpose of the script. To enhance learnability and contribute to ease, comprehensive documentation, clear explanations of the script's purpose and components, and discussions on the calculator application's inclusion and potential alternatives would be beneficial for team members.
- 
